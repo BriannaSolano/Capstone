@@ -24,3 +24,7 @@ Material
 •GPS PMOD
 
 •DPG1 PMOD
+
+Discription
+------------------
+Developed and Constructed an atmospheric weather monitoring system using the Zybo board and Pmods
