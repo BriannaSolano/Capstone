@@ -3,27 +3,27 @@ Electrical and Computer Engineering Capstone project for the class of 2022
 
 Members
 -----------------
-•Brianna Solano Aguilar
+• Brianna Solano Aguilar
 
-•Rawad Sayah
+• Rawad Sayah
 
-•Jeremey Kim
+• Jeremey Kim
 
-•Felix Shames
+• Felix Shames
 
 Material
 ------------------
-•Zybo board
+• Zybo board
 
-•AQS PMOD
+• AQS PMOD
 
-•BT2 PMOD
+• BT2 PMOD
 
-•ACL PMOD
+• ACL PMOD
 
-•GPS PMOD
+• GPS PMOD
 
-•DPG1 PMOD
+• DPG1 PMOD
 
 Discription
 ------------------
