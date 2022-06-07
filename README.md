@@ -1,4 +1,4 @@
-# Capstone
+# Affordable Atmospheric Monitoring Unit (AAMU)
 Electrical and Computer Engineering Capstone project for the class of 2022
 
 Members
@@ -27,4 +27,5 @@ Material
 
 Discription
 ------------------
-Developed and Constructed an atmospheric weather monitoring system using the Zybo board and Pmods
+Utilized C to program Zybo boards attached with Digilent PMODs to monitor real-time atmospheric conditions
+Developed a floating affordable unit for access access to atmospheric data and combat global warming
